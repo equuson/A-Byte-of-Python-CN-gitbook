@@ -6,8 +6,6 @@ http://gitbook.net/static/books/A-Byte-of-Python-CN-gitbook/index.html
 简明 Python 教程
 waroop, C. H. 著 沈洁元 译
 
-www.byteofpython.info
-
 版本：1.20
 
 A Byte of Python
