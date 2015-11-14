@@ -5,7 +5,7 @@ http://gitbook.net/static/books/A-Byte-of-Python-CN-gitbook/index.html
 
 简明 Python 教程
 waroop, C. H. 著 沈洁元 译
-
+原工程地址：https://github.com/onion7878/A-Byte-of-Python-CN
 版本：1.20
 
 A Byte of Python
