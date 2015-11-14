@@ -3,6 +3,7 @@ A-Byte-of-Python中文符合gitbook版
 添加了summary更方便阅读，可生成gitbook版
 http://gitbook.net/static/books/A-Byte-of-Python-CN-gitbook/index.html
 
+
 简明 Python 教程
 waroop, C. H. 著 沈洁元 译
 原工程地址：https://github.com/onion7878/A-Byte-of-Python-CN
